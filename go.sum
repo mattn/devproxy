@@ -3,6 +3,8 @@ github.com/go-yaml/yaml v2.1.0+incompatible h1:RYi2hDdss1u4YE7GwixGzWwVo47T8UQwn
 github.com/go-yaml/yaml v2.1.0+incompatible/go.mod h1:w2MrLa16VYP0jy6N7M5kHaCkaLENm+P+Tv+MfurjSw0=
 github.com/konsorten/go-windows-terminal-sequences v1.0.1 h1:mweAR1A6xJ3oS2pRaGiHgQ4OO8tzTaLawm8vnODuwDk=
 github.com/konsorten/go-windows-terminal-sequences v1.0.1/go.mod h1:T0+1ngSBFLxvqU3pZ+m/2kptfBszLMUkC4ZK/EgS/cQ=
+github.com/moriyoshi/go-ioextras v0.0.0-20150201150702-af05ae27027c h1:6lez1rWeo+zLb6WfeCjXuUPUEA4I7Li1w2SVHl2VVMY=
+github.com/moriyoshi/go-ioextras v0.0.0-20150201150702-af05ae27027c/go.mod h1:DiQtXWRmLL1kqjUcXaZziKr13+EqaoyfsmZL+8RaJq8=
 github.com/moriyoshi/mimetypes v0.0.0-20190202045042-755ee14f84d1 h1:bkfXqqnax2WOUl+xXFd/gxHivPUsagFtANxsgRx31Nw=
 github.com/moriyoshi/mimetypes v0.0.0-20190202045042-755ee14f84d1/go.mod h1:BhYJSMKygU9xeSsBmDuWn+ger4JXdBwCzDazbMBPt/0=
 github.com/moriyoshi/mimetypes v1.0.0 h1:nESQmdWurua/+7QzWnxMpbHYUd0mMsi6zKAkq3ZbU50=
